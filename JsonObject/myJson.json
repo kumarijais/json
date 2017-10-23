@@ -1,0 +1,20 @@
+[
+{
+"name":"sonoo",
+"course":"jsp",
+"salary":600000,
+"age":27
+},
+{
+ "name":"vishu",
+ "course":"java",
+ "salary":5000,
+ "age":25
+ },
+{
+ "name":"varsha",
+ "course":"servlet",
+ "salary":604500,
+ "age":24
+ }
+]
